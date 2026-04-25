@@ -28,3 +28,11 @@
    ```bash
    git clone <URL-репозитория>
    cd github-user-finder
+Установите зависимости:
+
+bash
+pip install requests
+Запустите приложение:
+
+bash
+python app.py
